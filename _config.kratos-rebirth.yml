@@ -26,19 +26,19 @@ menu:
   index: /
   archives: /archives/
   friends: /friends/
-  # sites:
-  #   submenu: true
-  #   author: https://candinya.com
-  #   project: https://github.com/Candinya/Kratos-Rebirth
+  sites:
+    submenu: 
+    author: 
+    project: 
 
 label:
   index: <i class="fa fa-home"></i>首页
   archives: <i class="fa fa-file"></i>档案馆
   friends: <i class="fa fa-paw"></i>好伙伴
-  # sites:
-  #   submenu: <i class="fa fa-link"></i>链接
-  #   author: 作者博客
-  #   project: 项目链接
+  sites:
+    submenu: 
+    author: 
+    project: 
 
 # Footer 页脚配置
 group_link: 
@@ -199,12 +199,12 @@ friends:
     bio: "占个位置"
     avatar: "https://avatars.githubusercontent.com/u/1342004"
     link: "https://google.com"
-  # - name: "猫猫②号"
-  #   bio: "喵喵~"
-  #   avatar: "../images/avatar.webp"
-  #   link: "https://candinya.com"
-  # - name: "猫猫⑨号"
-  #   bio: "咪啪~"
-  #   avatar: "../images/avatar.webp"
-  #   link: "https://candinya.com"
-  verify: true # 验证每个友链的可访问性，炸了会有提示
+  - name: "堕落方舟"
+    bio: "涩涩交流论坛"
+    avatar: 
+    link: "https://bbs.fallenark.com/"
+  - name: "PornHub"
+    bio: "我就放一个在这里"
+    avatar: "https://di.phncdn.com/www-static/favicon.ico"
+    link: "https://cn.pornhub.com/"
+  verify: false # 验证每个友链的可访问性，炸了会有提示
