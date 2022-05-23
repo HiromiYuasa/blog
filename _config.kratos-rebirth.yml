@@ -1,5 +1,5 @@
 # Global 全局配置
-site_analytics: 
+site_analytics: "<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-6EDHTE0PK5\"></script> <script> window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-6EDHTE0PK5');</script>"
 hoster: <a href="https://github.io" target="_blank">Github Pages</a>
 site_logo:
 snow: false
