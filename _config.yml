@@ -105,6 +105,6 @@ deploy:
   type: git
   repo: https://github.com/HiromiYuasa/HiromiYuasa.github.io.git
   branch: master
-  message: HEXODeploy
+  message: Deploy by HEXO
   name: HiromiYuasa
   email: hiromi460@gmail.com
