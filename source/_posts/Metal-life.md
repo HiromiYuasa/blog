@@ -5,4 +5,4 @@ tags: [贞操带]
 categories: 轮盘任务
 ---
 
-![贞操奴隶的生活](metal_life_zh_compressd.png)
+![](metal_life_zh_compressd.png)
