@@ -1,7 +1,7 @@
 # Global 全局配置
 site_analytics: "<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-6EDHTE0PK5\"></script> <script> window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-6EDHTE0PK5');</script>"
 hoster: <a href="https://github.io" target="_blank">Github Pages</a>
-site_logo:
+site_logo: https://avatars.githubusercontent.com/u/72242390
 snow: false
 click_animate_js: 'candy'
 enable_dark: true
@@ -164,7 +164,7 @@ search:
 jsconfig:
   main:
     pic:
-      CDN: true # 表示使用 CDN 加载图片
+      CDN: false # 表示使用 CDN 加载图片
       random_amount: 20 # 表示从1~20
       filename: "images/thumb/thumb_{no}.webp" # 相对于主题根目录，表示文件名的格式, {no} 用以指代随机的编号。
                                               # 如果包含 // 表示使用指定域名的绝对路径（例如第三方图床服务等），那么会忽略 CDN 选项
