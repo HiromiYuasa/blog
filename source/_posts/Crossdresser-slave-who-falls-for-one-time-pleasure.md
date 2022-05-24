@@ -5,7 +5,9 @@ tags: [贞操带,女装,学生]
 categories: 小说
 ---
 
-### 原作 [田中まさみ](https://www.pixiv.net/users/2960611) 翻译 [Hiromi](https://hiromi.eu.org/)
+ 原作 [田中まさみ](https://www.pixiv.net/users/2960611) 
+ 
+ 翻译 [Hiromi](https://hiromi.eu.org/)
 
 "哎……"
 

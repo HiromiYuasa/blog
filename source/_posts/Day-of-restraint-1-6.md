@@ -4,9 +4,9 @@ date: 2022-05-21 00:02:57
 tags: [拘束,学生,水手服]
 categories: 小说
 ---
-原作：[拘束の日](https://www.pixiv.net/novel/series/1309804)
+原作 [拘束の日](https://www.pixiv.net/novel/series/1309804)
 
-翻译：[Hiromi](https://hiromi.eu.org)
+翻译 [Hiromi](https://hiromi.eu.org)
 
 > 这篇其实是很早翻译的，当时的萌新作（现在还是萌新）发在堕落方舟上，开坑的时候还没这个博客，然后作者是个大鸽子，谁知道猴年马月出第七章
 

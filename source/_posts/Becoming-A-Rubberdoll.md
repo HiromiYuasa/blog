@@ -5,4 +5,4 @@ tags: [乳胶]
 categories: 轮盘任务
 ---
 
-![成为乳胶娃娃](https://cdn.jsdelivr.net/gh/HiromiYuasa/PagesIMG/Becoming_A_Rubberdoll.png)
+![](Becoming_A_Rubberdoll.png)

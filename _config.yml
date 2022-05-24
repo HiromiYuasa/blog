@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked: #Make ![](image.jpg) will be rendered as <img src="/2020/01/02/foo/image.jpg">.
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:

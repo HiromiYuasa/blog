@@ -5,9 +5,9 @@ tags: [拘束,乳胶,婚纱,肛塞,排泄控制]
 categories: 小说
 ---
 
-原作：[純白のラバー製ウェディングドレス](https://www.pixiv.net/novel/show.php?id=10972254)
+原作 [純白のラバー製ウェディングドレス](https://www.pixiv.net/novel/show.php?id=10972254)
 
-翻译：[Hiromi](https://hiromi.eu.org)
+翻译 [Hiromi](https://hiromi.eu.org)
 
 在收到他的订婚戒指和求婚信后，我以一个干脆的"是"字答应了他，我们已经正式向双方的父母致以婚礼问候。
 

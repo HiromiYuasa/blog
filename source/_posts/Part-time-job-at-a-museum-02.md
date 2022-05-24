@@ -4,7 +4,11 @@ date: 2022-04-08 16:54:19
 tags: [拘束,学生,乳胶,真空床,水手服]
 categories: 小说
 ---
-### 原作 [スティル0880](https://www.pixiv.net/users/24199579) 翻译 [Hiromi](https://hiromi.eu.org/)
+
+原作 [スティル0880](https://www.pixiv.net/users/24199579) 
+
+翻译 [Hiromi](https://hiromi.eu.org/)
+
 
 上周六那天发生了什么？
 

@@ -5,7 +5,7 @@ tags: [女仆]
 categories: 轮盘任务
 ---
 
-![img](https://raw.githubusercontent.com/HiromiYuasa/PagesIMG/main/31182_cleaning-day.jpg)
+![](31182_cleaning-day.jpg)
 
 来源 https://www.faproulette.co/31182/cleaning-day/
 

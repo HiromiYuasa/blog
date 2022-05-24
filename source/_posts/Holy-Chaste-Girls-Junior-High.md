@@ -5,9 +5,9 @@ tags: [乳胶,拘束,学生,乳胶制服]
 categories: 小说
 ---
 
-原作：[お嬢様の中学受験の第一志望に聖守操学園はいかがですか？](https://www.pixiv.net/novel/show.php?id=11971714)
+原作 [お嬢様の中学受験の第一志望に聖守操学園はいかがですか？](https://www.pixiv.net/novel/show.php?id=11971714)
 
-翻译：[Hiromi](https://hiromi.eu.org)
+翻译 [Hiromi](https://hiromi.eu.org)
 
 作为公司的王牌员工，我的工作进展很顺利
 

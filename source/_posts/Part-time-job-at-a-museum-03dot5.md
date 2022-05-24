@@ -4,7 +4,10 @@ date: 2022-04-12 16:54:19
 tags: [拘束,学生,乳胶,水手服,乳胶制服]
 categories: 小说
 ---
-### 原作 [スティル0880](https://www.pixiv.net/users/24199579) 翻译 [Hiromi](https://hiromi.eu.org/)
+
+原作 [スティル0880](https://www.pixiv.net/users/24199579) 
+
+翻译 [Hiromi](https://hiromi.eu.org/)
 
 从马娘展览会回来之后的晚上。
 

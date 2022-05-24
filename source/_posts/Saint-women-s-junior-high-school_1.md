@@ -4,7 +4,10 @@ date: 2022-04-04 18:39:16
 tags: [乳胶,拘束,学生,乳胶制服]
 categories: 小说
 ---
-### 原作 [スティル0880](https://www.pixiv.net/users/24199579) 翻译 [Hiromi](https://hiromi.eu.org/)
+
+原作 [スティル0880](https://www.pixiv.net/users/24199579) 
+
+翻译 [Hiromi](https://hiromi.eu.org/)
 
 我的名字是小野绫女 ，我的朋友们都叫我"绫女酱"。
 

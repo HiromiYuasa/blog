@@ -4,7 +4,11 @@ date: 2022-04-07 15:38:19
 tags: [拘束,学生]
 categories: 小说
 ---
-### 原作 [スティル0880](https://www.pixiv.net/users/24199579) 翻译 [Hiromi](https://hiromi.eu.org/)
+
+原作 [スティル0880](https://www.pixiv.net/users/24199579) 
+
+翻译 [Hiromi](https://hiromi.eu.org/)
+
 
 我叫杉山咲，今年四月刚升入高中。
 
