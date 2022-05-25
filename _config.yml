@@ -4,7 +4,7 @@
 
 # Site
 title: Hiromi的涩涩世界
-subtitle: 本站不对中国大陆地区提供服务且不对未成年人提供服务
+subtitle: 本站不对中国大陆及任何禁止色情的（国家/地区）提供服务且不对未成年人提供服务
 description: 
 keywords:
 author: Hiromi Yuasa
@@ -14,7 +14,8 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://hiromi.eu.org/
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/ # 默认
+permalink: :year/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
