@@ -5,7 +5,7 @@ tags: [乳胶,学生,水手服,乳胶制服]
 categories: 本子
 ---
 
-转载自E站 [\[TMZF no Circle (TMZF)\] Rubber Sailor | 乳胶校服 \[Chinese\] \[K记翻译\]](https://e-hentai.org/g/1416629/111b5e6743/)
+转自 [\[TMZF no Circle (TMZF)\] Rubber Sailor | 乳胶校服 \[Chinese\] \[K记翻译\]](https://e-hentai.org/g/1416629/111b5e6743/)
 
 说起来K大的翻译这里 Sailor 不该翻译成水手服吗
 
