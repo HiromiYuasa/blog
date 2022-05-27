@@ -1,7 +1,7 @@
 ---
 title: "[妄想美術部 (しょーやん)] Beginning black4 [DL版] [中国翻訳]"
 date: 2022-05-25 19:14:30
-tags: 乳胶
+tags: [乳胶,百合,姐妹,真空床,拘束]
 categories: 本子
 ---
 
