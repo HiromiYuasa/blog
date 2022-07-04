@@ -1,8 +1,8 @@
 ---
 title: 贵族的游戏世界
 date: 2022-05-24 13:58:12
-tags:
-categories: 转载小说
+tags: [拘束,女仆,家畜]
+categories: 转载文章
 ---
 
 原作 [貴族的遊戲世界](http://lisacdsm.blog.2nt.com/?no=26) 我做了一下繁简转换，没有其他改动
