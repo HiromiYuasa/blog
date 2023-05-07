@@ -4,7 +4,7 @@ languageCode = "zh-cn"
 title = "Hiromi的藏书处"
 copyright = "除非另有声明，本博客之原创文章采用 CC BY-NC-SA 4.0 进行许可。"
 theme = "diary"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-6EDHTE0PK5"
 
 [markup]
   [markup.highlight]
