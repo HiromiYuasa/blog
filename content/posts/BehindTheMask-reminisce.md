@@ -1857,7 +1857,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 已经超过一天没有任何进食与大小便的我，现在是又饿又累又难受，我从没想过这套服装竟然可以造成这么大的痛苦。体内的性欲似乎因为乳头的紧束又被勾起了，而且那股想要达到高潮的迫切感比之前都来得强烈，让我不停地用力吸吮着洁齿棒同时喘着气，我开始害怕自己会不会突然因为强烈的刺激而休克昏倒过去。努力地试着让自己冷静，我开始回想从星期五晚上到现在所经过的一切，突然想起今早手机画面上显示的那段文本，最后好像有一个消息是跟现在的情况有关的，我开始尝试去回忆起那个画面写的东西有哪些。
 
-“唔” 当我记起来那画面最后一行写些什么东西时，同时也惊讶地心想自己完蛋了，因为那行写的是 ”Next：Long Duration Training Level 2.” 而其中有一行似乎写的是 “Request：Full Function Closed/Locked in 2 days duration.” 如果我没猜错的话，最糟的情况就是我的这两个条件刚好重叠了，程序直接将之前的服装功能关闭及锁定时间累加在一起，所以刚才的那声提示音如果是来自于程序的消息，很有可能就是通知说我的 ”Long Duration Training Level” 提升到 2 了。先不管等级 2 又添加了什么条件，万一那个时间的累积计算无法中断，那是否我永远也无法解除这套服装现在这样的状态，而且这个 ”Long Duration Training” 到底会有几个等级呢？
+“唔” 当我记起来那画面最后一行写些什么东西时，同时也惊讶地心想自己完蛋了，因为那行写的是 `Next：Long Duration Training Level 2.` 而其中有一行似乎写的是 `Request：Full Function Closed/Locked in 2 days duration.` 如果我没猜错的话，最糟的情况就是我的这两个条件刚好重叠了，程序直接将之前的服装功能关闭及锁定时间累加在一起，所以刚才的那声提示音如果是来自于程序的消息，很有可能就是通知说我的 `Long Duration Training Level` 提升到 2 了。先不管等级 2 又添加了什么条件，万一那个时间的累积计算无法中断，那是否我永远也无法解除这套服装现在这样的状态，而且这个 `Long Duration Training` 到底会有几个等级呢？
 
 这一切一切对我来说现在都是未知的答案，尽管心里有无数个问号我也只能安慰自己应该不会变成那样才对，湘妤应该明天就可以回家的，只是这个痛苦的漫长夜晚我又该如何熬过。内心的恐慌随着时间的流逝逐渐蔓延到全身，在这样孤单无助的情况下，我好希望真的有奇迹发生，能有个天使马上来拯救我。当我再次醒来时已经天亮了，窗外的雨声也小了许多，看来因为没有水份的摄取，也让我的膀胱压力昨晚都没有超过自动排尿的阀值，但相对地我的阴蒂也就只能一直维持着被紧束的状态了，当然还有我那对可怜的乳头也是一样。
 
@@ -1915,7 +1915,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 “你知道你现在的情况吗？” 学长左手拿着我的手机点击着，然后把屏幕画面放在我面前让我看上面写的消息，我一看之后惊呼了一声，不过隔着口罩只发出了唔的声音。
 
-> ## Long Duration Training Level 2
+> Long Duration Training Level 2
 > 
 > Status：Enable
 > 
@@ -1939,7 +1939,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 “这几天有空再慢慢跟你解释吧，你刚不是想知道这个 Long Duration Training 的等级吗？ 我慢慢讲给你听，希望你知道了之后不要太激动” 我点点头表示了解，我想经过这两天的冒险，应该也不会有什么东西让我太惊讶了，于是学长就开始慢慢将之后的每个等级都说给我听。
 
-> ## Long Duration Training Level 3
+> Long Duration Training Level 3
 > 
 > Status：Disable
 > 
@@ -1952,8 +1952,9 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 > Reward：Armbands Unlocked consumes 1 Masturbate Point per time period.
 > 
 > Next：Long Duration Training Level 4.
-> 
-> “Long Duration Training Level 4”
+
+
+> Long Duration Training Level 4
 > 
 > Status：Disable
 > 
@@ -1969,7 +1970,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 从等级一到四都是和服装解锁功能有关的”奖励”，与其说是奖励不如说是惩罚来的贴切一点，因为每天最常用的那些功能解锁时都会消耗掉我们好不容易累积的自慰点数，这等于是让我们更难达到凑齐点数来激活自慰的功能。
 
-> ## Long Duration Training Level 5
+> Long Duration Training Level 5
 > 
 > Status：Disable
 > 
@@ -1985,7 +1986,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 当我看到等级五又多了一个新的奖励，以后如果我同时解除口罩和高跟鞋时，会自动激活乳头紧束的功能，这真的是太过分了，但是现在我也无法做什么来阻止这件事发生，只能无奈地接受这个事实。
 
-> ## Long Duration Training Level 6
+> Long Duration Training Level 6
 > 
 > Condition 1：Yuga Bondage extends to 6 days per time period.
 > 
@@ -1999,7 +2000,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 果然在等级六又多了一个奖励，我了解之后差点昏倒，竟然在我同时解除上臂环和大腿环的锁定时就会自动激活阴蒂紧束的功能，这也太强人所难了吧，难道要我以后出门都绑着大腿吗？ 否则就要忍受阴蒂紧束的痛苦，一想到这些我就觉得有点生气，可是事到如今除了坦然面对也没有其它方式了。
 
-> ## Long Duration Training Level 7
+> Long Duration Training Level 7
 > 
 > Condition 1：Yuga Bondage extends to 7 days per time period.
 > 
@@ -2165,7 +2166,7 @@ Gloves 的时间是我们两个 Thighbands 锁定的时间所累积换算的，�
 
 解决了晚餐后，我开始在客厅里练习只用膝盖和鞋尖跪着走路移动，尽管这不是一件容易的事，刚开始也是不断地摇摇晃晃，一会儿往前跌个狗吃屎，乳房也被自己的身体压得胸口胀痛，一会儿则是往后倒个四脚朝天，不过可惜现在我也没有四脚，只剩下两座乳峰伫立。来来回回不断地尝试，渐渐地掌握住平衡的诀窍，也开始有些心得了。试着从沙发”走到”饮水机补充一下水份，练习了这么久我也是满头大汗气喘如牛，沛海帮我盘好的头发也有些散乱了。喝完水后我突然听见房间里又传来了手机的提示音，便下意识地就照样跪着走回房里，当我回到书桌前时才发觉自己刚才竟然完全没有跌倒，看来今晚的特训效果挺不赖的。
 
-解开屏幕锁后看见有个消息窗口写着” Long Duration Training Level 3”，瞄了一下手机上方的时间已经是晚上十点半了，看来我的等级二条件已经达成，算算日子从上礼拜六晚上到今天星期三也刚好满四天，没想到原本只是单纯地一两天不解开服装锁定，现在竟然已经四天没有中断，同时还被紧缚着手脚，更不用说照沛海的推测至少要两个礼拜我才能够恢复原本的自由。
+解开屏幕锁后看见有个消息窗口写着 `Long Duration Training Level 3`，瞄了一下手机上方的时间已经是晚上十点半了，看来我的等级二条件已经达成，算算日子从上礼拜六晚上到今天星期三也刚好满四天，没想到原本只是单纯地一两天不解开服装锁定，现在竟然已经四天没有中断，同时还被紧缚着手脚，更不用说照沛海的推测至少要两个礼拜我才能够恢复原本的自由。
 
 Status：Enable
 
@@ -2287,19 +2288,19 @@ Next：Long Duration Training Level 4.
 
 “姐，怎会这样，你看……” 湘妤把手机画面拿到我面前，上面写着：
 
-Long Duration Training Level 5
-
-Status：Enable
-
-Condition 1：Yuga Bondage extends to 5 days per time period.
-
-Condition 2：Enema Waiting extends to 1.5 hours per time period.
-
-Request：Full Function Closed/Locked in 10 days duration and Yuga Bondage once.
-
-Reward：Nipple Binding enables as Mask and Stilettos unlocked at the same time.
-
-Next：Long Duration Training Level 6.
+> Long Duration Training Level 5
+> 
+> Status：Enable
+> 
+> Condition 1：Yuga Bondage extends to 5 days per time period.
+> 
+> Condition 2：Enema Waiting extends to 1.5 hours per time period.
+> 
+> Request：Full Function Closed/Locked in 10 days duration and Yuga Bondage once.
+> 
+> Reward：Nipple Binding enables as Mask and Stilettos unlocked at the same time.
+> 
+> Next：Long Duration Training Level 6.
 
 我松了一口气还好浣肠等待时间没有又加长了，但是看着那名不符实的”奖励”，我也只能安慰自己至少在这段 Long Duration Training 时间内暂时不用去烦恼这个问题。
 
@@ -2825,7 +2826,7 @@ Condition 7：Kinbaku Tightly enables as Mask, Stilettos, Armbands and Thighband
 
 接着我和湘妤就把多功能饮水机那几个好一阵子没用的空槽给清洗了一下，然后依序倒满了鲜奶、蔬果汁和那瓶柠檬伏特加调酒。湘妤似乎迫不及待地想先尝尝味道，我马上制止她说，这是要留到明天才能开箱的情人节礼物，湘妤只好无奈地通过口罩发出一声哀鸣。准备好饮水机后，我又检查了一下家里的所有设备，确保湘妤这几天在家中可以无虑地度过，然后回到房间开始整理自己的行李，因为只有过一夜而已，所以我就不打算带太多衣服了，但是口罩还是习惯性地随身携带，尽管这阵子我只有睡觉时才会戴上它，因为早己习惯了戴着口罩睡觉的感觉，如果嘴里少了口塞反而容易失眠呢。
 
-隔天早上最后和湘妤确认了一切准备妥当后，就等沛海开车来接我了，湘妤在我出门后也激活了瑜珈紧缚，开始了她在 Long Duration Training Level 6 的最大考验。沛海在上车时再次关心地问我湘妤一人在家里会不会有什么问题，我要他别操心了，不过就是一个晚上，明天我们就回来啦。沛海想了想后才抓着头笑说也对，于是我们一起开心地踏上旅途。这阵子刚好寒流到来，街上的形人和车辆都少了许多，但仍可看见俩俩一对的情侣戴着毛帽和手套，一起围着一条大围巾在路上走着，甜蜜的气氛也感染着我和沛海，沛海一手握着方向盘开着车，另一手则是握着我的手温柔地抚摸着。
+隔天早上最后和湘妤确认了一切准备妥当后，就等沛海开车来接我了，湘妤在我出门后也激活了瑜珈紧缚，开始了她在 `Long Duration Training Level 6` 的最大考验。沛海在上车时再次关心地问我湘妤一人在家里会不会有什么问题，我要他别操心了，不过就是一个晚上，明天我们就回来啦。沛海想了想后才抓着头笑说也对，于是我们一起开心地踏上旅途。这阵子刚好寒流到来，街上的形人和车辆都少了许多，但仍可看见俩俩一对的情侣戴着毛帽和手套，一起围着一条大围巾在路上走着，甜蜜的气氛也感染着我和沛海，沛海一手握着方向盘开着车，另一手则是握着我的手温柔地抚摸着。
 
 这次的目的地就是大约一年前我和沛海共度第一次的那个湖边小屋，在我提出要两天一夜的旅行后，沛海就马上提议不如来这个小屋度假，我想他也应该很想念那次的美好回忆。大概是因为寒流的缘故，湖面已结上了一层薄冰，四周是一片银白色的世界，和上次的景色相比，又是另一种无法言喻的壮丽美景，下车后我不自觉地缩起身子，呼吸时口中也吐著白烟，但还是忍不住踩着高跟鞋在雪堆里奔跑了起来，沛海看见我像小孩子贪玩的模样，紧张地叫我小心点别跌倒了。
 
