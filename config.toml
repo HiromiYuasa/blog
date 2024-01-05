@@ -1,84 +1,35 @@
 baseURL = "http://hiromi.eu.org/"
-DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "zh-cn"
 title = "Hiromi的藏书处"
-copyright = "除非另有声明，本博客之原创文章采用 CC BY-NC-SA 4.0 进行许可。"
-theme = "diary"
-googleAnalytics = "G-6EDHTE0PK5"
+theme = "nostyleplease"
 
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
   [markup.highlight]
+    anchorLineNos = false
     codeFences = true
     guessSyntax = false
-    hl_Lines = ""
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
     lineNoStart = 1
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "perldoc"
+    noHl = false
+    style = 'rrt'
     tabWidth = 4
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
 
 [params]
-subtitle = "SITE BUILT WITH ❤ BY HIROMI YUASA"
-enableGitalk = false
-enableGiscus = false
-
-# Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
-# clarity = "abcdefghzd"
-
-# Twitter Card and Open Graph settings
-enableOpenGraph = true
-enableTwitterCards = true
-title = "Hiromi的藏书处" # will set 'og:site_name'
-description = "SITE BUILT WITH ❤ BY HIROMI YUASA"  # will set 'og:description'
-
-# [params.gitalk]
-#   owner = "user"
-#   repo = "repo name"
-#   client_id = "your client id"
-#   client_secret = "your client secret"
-[taxonomies]
-   tag = "tags"
-   category = "categories"
-
-# [params.utterances]
-# repo="your repo"
-# term="[ENTER TERM HERE]"
-# label="your label"
-# theme="github-light"
-
-# Please visit https://giscus.app/ to generate settings.
-[params.giscus]
-    data_repo="username/repo"
-    data-repo-id="**************************"    
-    data_category="General"
-    data_category_id="*********************"
-    data_mapping="pathname"
-    data_strict="0"
-    data_reactions_enabled="1"
-    data_emit_metadata="0"
-    data_input_position="bottom"
-    data_theme="preferred_color_scheme"
-    data_lang="en"
-    crossorigin="anonymous"
-
-[[menu.main]]
-url = "/posts"
-name = "归档"
-weight = 1
-[[menu.main]]
-url = "/categories"
-name = "分类"
-weight = 2
-[[menu.main]]
-url = "/tags"
-name = "标签"
-weight = 3
-[[menu.main]]
-url = "/about"
-name = "关于"
-weight = 4
-[[menu.main]]
-url = "/index.xml"
-name = "RSS"
-weight = 5
+  [params.theme_config]
+    appearance = "auto"
+    back_home_text = ".."
+    date_format = "2006-01-02"

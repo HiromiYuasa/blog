@@ -1,0 +1,24 @@
+[[entries]]
+title = "最近更新"
+
+  [entries.post_list]
+  limit = 10
+  show_more = true
+  show_more_text = "所有文章..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "分类"
+url = "/categories"
+
+[[entries]]
+title = "标签"
+url = "/tags"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
+
+[[entries]]
+title = "关于本站"
+url = "about"
