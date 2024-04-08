@@ -5,4 +5,4 @@ tags: [女仆]
 categories: 轮盘任务
 ---
 
-![](https://cdn.jsdelivr.net/gh/HiromiYuasa/PagesIMG/31758_zh.jpg)
+![](31758.jpg)
