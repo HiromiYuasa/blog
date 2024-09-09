@@ -2,7 +2,7 @@
 title: Cindy 的故事
 date: 2022-08-04 16:29:29
 tags: [乳胶,囚服,镣铐,监狱]
-categories: 小说
+categories: ["小说"]
 ---
 
 ## Cindy 的故事 001

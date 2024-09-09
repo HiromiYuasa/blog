@@ -2,7 +2,7 @@
 title: 误助越狱的乳胶少女
 date: 2022-09-24 16:50:04
 tags: [拘束,乳胶,囚服,女装]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [逃亡幇助](https://www.pixiv.net/novel/show.php?id=18182722)

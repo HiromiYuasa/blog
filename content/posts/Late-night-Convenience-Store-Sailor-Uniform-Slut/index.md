@@ -2,7 +2,7 @@
 title: 深夜便利店与水手服被虐痴女
 date: 2022-12-22 00:56:12
 tags: [水手服,拘束]
-categories: 小说
+categories: ["小说"]
 featured_image: "pic.jpg"
 ---
 

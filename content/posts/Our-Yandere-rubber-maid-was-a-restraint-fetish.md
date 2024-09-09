@@ -2,7 +2,7 @@
 title: 我家的乳胶恋物女仆
 date: 2022-06-24 17:19:25
 tags: [乳胶,拘束,女仆]
-categories: 小说
+categories: ["小说"]
 ---
 
 原文：[うちのヤンデレラバーメイドは拘束フェチでした](https://www.pixiv.net/novel/show.php?id=6304541)

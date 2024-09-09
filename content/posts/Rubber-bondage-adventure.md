@@ -2,7 +2,7 @@
 title: 乳胶拘束大冒险
 date: 2022-05-19 02:53:38
 tags: [拘束,学生,乳胶,真空床]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [スティル0880](https://www.pixiv.net/users/24199579) 

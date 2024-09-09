@@ -2,7 +2,7 @@
 title: "[妄想美術部 (しょーやん)] Beginning black2 [中国翻訳] [DL版]"
 date: 2022-05-25 19:27:24
 tags: [乳胶,百合,改造,拘束]
-categories: 本子
+categories: ["本子"]
 ---
 
 转自 [[妄想美術部 (しょーやん)] Beginning black2 [中国翻訳] [DL版]](https://nhentai.com/fr/comic/mousou-bijutsubu-sho-yan-beginning-black2-chinese-digital)

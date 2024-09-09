@@ -2,7 +2,7 @@
 title: 艺术馆的打工日常 01
 date: 2022-04-07 15:38:19
 tags: [拘束,学生]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [スティル0880](https://www.pixiv.net/users/24199579) 

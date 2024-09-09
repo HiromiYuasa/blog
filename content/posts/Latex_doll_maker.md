@@ -2,7 +2,7 @@
 title: 乳胶人偶制作师
 date: 2024-03-11 13:57:12
 tags: [拘束,乳胶]
-categories: 转载文章
+categories: ["转载文章"]
 ---
 
 ## 第1章

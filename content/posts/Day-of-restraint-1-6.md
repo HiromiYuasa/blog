@@ -2,7 +2,7 @@
 title: 紧缚日 1-6
 date: 2022-05-21 00:02:57
 tags: [拘束,学生,水手服]
-categories: 小说
+categories: ["小说"]
 ---
 原作 [拘束の日](https://www.pixiv.net/novel/series/1309804)
 

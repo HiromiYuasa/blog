@@ -2,7 +2,7 @@
 title: 无穷随机拘束
 date: 2024-03-11 13:59:12
 tags: [拘束,乳胶]
-categories: 转载文章
+categories: ["转载文章"]
 ---
 
 ## 第1章

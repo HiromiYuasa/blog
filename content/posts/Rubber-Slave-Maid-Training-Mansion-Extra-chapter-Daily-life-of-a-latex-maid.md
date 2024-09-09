@@ -2,7 +2,7 @@
 title: 乳胶奴隶育成庄园 番外篇：乳胶女仆的日常
 date: 2022-07-19 01:26:48
 tags: [拘束,女仆,乳胶,贞操带]
-categories: 小说
+categories: ["小说"]
 ---
 
 感谢 [magichen222](https://bbs.fallenark.com/home.php?mod=space&uid=545) 大佬提供的自购Fanbox文本

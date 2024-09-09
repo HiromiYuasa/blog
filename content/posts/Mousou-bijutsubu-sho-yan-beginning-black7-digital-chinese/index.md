@@ -2,7 +2,7 @@
 title: "[妄想美術部 (しょーやん)] Beginning black 7 [中国翻訳] [DL版]"
 date: 2022-05-27 21:20:54
 tags: [乳胶,拘束]
-categories: 本子
+categories: ["本子"]
 ---
 
 转自 [[妄想美術部 (しょーやん)] Beginning black 7 [中国翻訳] [DL版]](https://nhentai.com/en/comic/mousou-bijutsubu-sho-yan-beginning-black-7-chinese-digital)

@@ -2,7 +2,7 @@
 title: 纯白的乳胶婚纱
 date: 2022-05-20 21:36:45
 tags: [拘束,乳胶,婚纱,肛塞,排泄控制]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [純白のラバー製ウェディングドレス](https://www.pixiv.net/novel/show.php?id=10972254)

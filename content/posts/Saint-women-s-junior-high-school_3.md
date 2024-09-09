@@ -2,7 +2,7 @@
 title: 圣女学园女子初中 第三章
 date: 2022-04-04 22:39:16
 tags: [乳胶,拘束,学生,乳胶制服,水手服]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [スティル0880](https://www.pixiv.net/users/24199579) 

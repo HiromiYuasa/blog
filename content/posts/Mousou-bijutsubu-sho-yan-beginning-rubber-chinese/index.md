@@ -2,7 +2,7 @@
 title: "[妄想美術部 (しょーやん)] Beginning rubber [中国翻訳]"
 date: 2022-05-27 21:45:01
 tags: [乳胶,真空床]
-categories: 本子
+categories: ["本子"]
 ---
 
 转自 [[妄想美術部 (しょーやん)] Beginning rubber [中国翻訳]](https://nhentai.com/en/comic/mousou-bijutsubu-sho-yan-beginning-rubber-chinese)

@@ -2,7 +2,7 @@
 title: 将圣贞操学园作为女儿升学的第一志愿如何
 date: 2022-05-20 11:42:55
 tags: [拘束,贞操带,乳胶,水手服,乳胶制服,学生]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [お嬢様の中学受験の第一志望に聖守操学園はいかがですか？](https://www.pixiv.net/novel/show.php?id=11971714)

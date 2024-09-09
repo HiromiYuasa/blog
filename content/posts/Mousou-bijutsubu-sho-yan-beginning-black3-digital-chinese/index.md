@@ -2,7 +2,7 @@
 title: "[妄想美術部 (しょーやん)] Beginning black3 [中国翻訳] [DL版]"
 date: 2022-05-25 19:24:30
 tags: [乳胶,百合,真空床,拘束]
-categories: 本子
+categories: ["本子"]
 ---
 
 转自 [[妄想美術部 (しょーやん)] Beginning black3 [中国翻訳] [DL版]](https://nhentai.com/en/comic/mousou-bijutsubu-sho-yan-beginning-black3-chinese-digital/)

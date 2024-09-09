@@ -2,7 +2,7 @@
 title: 贞操管理酒店 第一章
 date: 2022-06-18 01:17:53
 tags: [乳胶,拘束,贞操带,泥土]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [スティル0880](https://www.pixiv.net/users/24199579) 

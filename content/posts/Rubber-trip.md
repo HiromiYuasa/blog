@@ -2,7 +2,7 @@
 title: 乳胶之旅
 date: 2022-07-11 01:51:40
 tags: [拘束,贞操带,乳胶,水手服,乳胶制服,学生]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [ラバー三昧旅](https://www.pixiv.net/novel/show.php?id=9602487) 

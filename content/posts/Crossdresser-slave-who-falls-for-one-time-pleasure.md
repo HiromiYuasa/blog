@@ -2,7 +2,7 @@
 title: 仅为了一次快感就雌堕成为女装奴隶
 date: 2022-04-06 10:34:49
 tags: [贞操带,女装,学生]
-categories: 小说
+categories: ["小说"]
 ---
 
  原作 [田中まさみ](https://www.pixiv.net/users/2960611) 

@@ -2,7 +2,7 @@
 title: 乳胶奴隶育成庄园
 date: 2022-05-22 22:48:42
 tags: [拘束,女仆,乳胶,贞操带]
-categories: 小说
+categories: ["小说"]
 ---
 
 原作 [ラバー奴隷メイド育成屋敷](https://www.pixiv.net/novel/show.php?id=17529192)

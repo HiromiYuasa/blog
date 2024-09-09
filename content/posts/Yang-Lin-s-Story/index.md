@@ -2,7 +2,7 @@
 title: 杨琳的故事
 date: 2022-08-03 01:11:47
 tags: [乳胶,囚服,镣铐,监狱]
-categories: 小说
+categories: ["小说"]
 ---
 
 ## 杨琳的故事 01

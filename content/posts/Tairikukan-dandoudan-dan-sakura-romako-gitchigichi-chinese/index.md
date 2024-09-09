@@ -2,7 +2,7 @@
 title: "[大陸間弾道弾団 (桜ロマ子)] ギッッッチギチ!! [中国翻訳]"
 date: 2022-05-25 19:08:19
 tags: [乳胶,拘束,窒息]
-categories: 本子
+categories: ["本子"]
 ---
 
 转自 [[大陸間弾道弾団 (桜ロマ子)] ギッッッチギチ!! [中国翻訳]](https://nhentai.com/zh/comic/tairikukan-dandoudan-dan-sakura-romako-gitchigichi-chinese)
