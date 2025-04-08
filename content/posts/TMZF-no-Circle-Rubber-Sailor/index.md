@@ -1,7 +1,7 @@
 ---
 title: "[TMZF no Circle (TMZF)] Rubber Sailor | 乳胶校服 [Chinese] [K记翻译]"
 date: 2022-05-25 13:35:44
-tags: [乳胶,学生,水手服,乳胶制服]
+tags: [乳胶,校园,水手服]
 categories: ["本子"]
 ---
 
