@@ -1,7 +1,7 @@
 ---
 title: "[妄想美術部 (しょーやん)] Beginning black 6 [中国翻訳] [DL版]"
 date: 2022-05-27 21:08:16
-tags: [乳胶,拘束,灌肠]
+tags: [乳胶,拘束]
 categories: ["本子"]
 ---
 

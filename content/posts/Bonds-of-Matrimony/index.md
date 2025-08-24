@@ -1,7 +1,7 @@
 ---
 title: "Bonds of Matrimony: A Wedding and honeymoon, in love and restraints."
 date: 2025-04-07 22:31:00
-tags: ["镣铐", "胶衣"]
+tags: [镣铐, 乳胶]
 categories: ["转载文章"]
 ---
 
