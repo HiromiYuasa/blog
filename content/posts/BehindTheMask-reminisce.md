@@ -1,5 +1,5 @@
 ---
-title: Behind The Mask 作者:reminisce@堕落方舟
+title: Behind The Mask
 date: 2023-04-08 23:47:05
 tags: [乳胶,拘束,校园]
 categories: ["转载文章"]
@@ -7,9 +7,9 @@ categories: ["转载文章"]
 
 # Behind The Mask
 
-作者 [reminisce](https://bbs.fallenark.com/home.php?mod=space&uid=1346)
+原作者: [reminisce](https://bbs.fallenark.com/home.php?uid=1346)
 
-转载自[堕落方舟论坛](https://bbs.fallenark.com/forum.php?mod=viewthread&tid=32796)，仅对排版格式稍作处理与简单的繁简转换
+原文: [Behind The Mask](https://bbs.fallenark.com/forum.php?mod=viewthread&tid=32796)，仅对排版格式稍作处理与简单的繁简转换
 
 ------
 

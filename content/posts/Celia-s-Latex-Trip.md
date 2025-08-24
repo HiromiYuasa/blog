@@ -1,9 +1,11 @@
 ---
-title: 希莉娅的乳胶旅行 作者:dany@堕落方舟
+title: 希莉娅的乳胶旅行
 date: 2022-08-23 20:31:27
-tags: [乳胶,拘束,女仆,女装,伪百合]
+tags: [乳胶,拘束,女仆]
 categories: ["转载文章"]
 ---
+
+原作者: [dany](https://bbs.fallenark.com/home.php?mod=space&uid=1623&do=profile)
 
 原文为繁体中文，我仅做了简单的简体转换并且替换了一些专有名词，稍微改了下标题
 
