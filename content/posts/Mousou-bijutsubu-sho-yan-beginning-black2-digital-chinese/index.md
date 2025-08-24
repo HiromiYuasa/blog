@@ -1,7 +1,7 @@
 ---
 title: "[妄想美術部 (しょーやん)] Beginning black2 [中国翻訳] [DL版]"
 date: 2022-05-25 19:27:24
-tags: [乳胶,百合,改造,拘束]
+tags: [乳胶,百合,拘束]
 categories: ["本子"]
 ---
 
