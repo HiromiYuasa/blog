@@ -1,7 +1,7 @@
 baseURL = "http://hiromi.eu.org/"
 languageCode = "zh-cn"
 title = "Hiromi的藏书处"
-theme = "nostyleplease"
+theme = "pixlike"
 
 [markup]
   [markup.goldmark]

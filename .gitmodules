@@ -1,3 +1,6 @@
 [submodule "themes/nostyleplease"]
 	path = themes/nostyleplease
 	url = https://github.com/HiromiYuasa/hugo-theme-nostyleplease.git
+[submodule "themes/pixlike"]
+	path = themes/pixlike
+	url = https://github.com/ReiAccept/hugo-theme-pixlike.git
