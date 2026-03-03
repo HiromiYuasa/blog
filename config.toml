@@ -1,8 +1,10 @@
 baseURL = "http://hiromi.eu.org/"
 languageCode = "zh-cn"
 title = "Hiromi的藏书处"
-theme = "pixlike"
 hasCJKLanguage = true
+theme = "pixlike"
+
+pagination.pagerSize = 12
 
 [params]
     author = "Hiromi"
@@ -12,3 +14,12 @@ hasCJKLanguage = true
     series = "series"
     tag = "tags"
     category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe= true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
