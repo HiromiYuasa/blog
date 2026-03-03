@@ -2,6 +2,7 @@ baseURL = "http://hiromi.eu.org/"
 languageCode = "zh-cn"
 title = "Hiromi的藏书处"
 theme = "pixlike"
+hasCJKLanguage = true
 
 [params]
     author = "Hiromi"
