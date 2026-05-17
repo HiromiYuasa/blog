@@ -1,7 +1,6 @@
 ---
 title: 关于
-comments: false
-disableToC: true
+layout: "about"
 ---
 
 ## 关于本站
@@ -18,4 +17,4 @@ disableToC: true
 - 如有版权方面的相关问题，请邮件至 hiromi460@gmail.com
 
 ## 投喂
-本站零成本运行，不需要打钱
+本站零成本运行, 不盈利, 不需要打钱
